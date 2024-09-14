@@ -38,6 +38,10 @@ lombok = "0.4"
 
 Source code usage examples you can see [in tests](./tests/tests.rs).
 
+## Thanks
+
+Thanks to [sokomishalov](https://github.com/sokomishalov/lombok-rs) for the idea and inspiration.
+
 ## License
 
 Licensed under either of [Apache License, Version 2.0](LICENSE-APACHE.md) or [MIT license](LICENSE-MIT.md) at your
